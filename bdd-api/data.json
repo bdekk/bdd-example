@@ -1,0 +1,8 @@
+{
+    "accounts": [
+        { "username": "bram", "password": "test"},
+        { "username": "aafke", "password": "test"},
+        { "username": "corvadis", "password": "test"},
+        { "username": "corvadis2", "password": "test"}
+    ]
+}
